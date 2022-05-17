@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab01android</string>
+    <string name="app_name">Fragments</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="show">Take Survey</string>
     <string name="alert_dialog_two_buttons_title">Please make a choice</string>

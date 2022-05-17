@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity(), ConfirmDialogFragment.SendMessages  {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val tv = findViewById<TextView>(R.id.text)
-        tv.text = "Anson Joel Arul Joseph Maria"
+        tv.text = "Anson Joel"
 
         // Watch for button clicks.
         val button = findViewById<Button>(R.id.show)
